@@ -1,0 +1,22 @@
+{
+	"username": "That Cybert Channel",
+	"avatar_url": "http://i.imgur.com/viUBN6S.png",
+	"content": "Hey everyone. Cybert just uploaded {{Title}} at {{CreatedAt}} {{Url}} Watch it... I spent all night editing it.",
+	"embeds": [{
+		"author": {
+			"name": "{{AuthorName}}",
+			"url": "https://www.youtube.com/ThatCybertChannel",
+			"icon_url": "http://i.imgur.com/TYBAULC.png"
+		},
+		"description": "[Click here to see this video]({{Url}})",
+		"color": 15258703,
+		"fields": [{
+			"name": "Description",
+			"value": "{{Description}}"
+		}],
+		"footer": {
+			"text": "Created by @WolfgGang1710",
+			"icon_url": "http://i.imgur.com/t2JQM4F.png"
+		}
+	}]
+}
